@@ -5,6 +5,6 @@ ForecaZ is an online application designed for the convenience of admistrators in
 It is free for use and you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License or any later version. It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 By using this application you agree that you have read and understood the License Notice for Forecaz and that you abide by its content.
-[Link to online version or RSamplingz](https://pghilado.shinyapps.io/dashboard/)
+[Link to online version for ForcaZ](https://pghilado.shinyapps.io/dashboard/)
 
 ForecaZ. Copyright 2019. Some rights reserved.
